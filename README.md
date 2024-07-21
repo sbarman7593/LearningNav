@@ -35,6 +35,11 @@ The APIs handles the CRUD operations for Students, Subjects, and Exams.
 - **GET /subject/{id}** - Retrieve the details of a specific subject.
 - **POST /subject** - Create a new subject.
 - **DELETE /subject/{id}** - Delete the specific subject.
+
+#### Easter Egg Feature:-
+- **GET /hidden-feature/{number}** -  Generate a fact about the number which is passed as the path parameter from Numbers API documentation.
+
+
 ### Installation Prequisite
 
 - Java 17 or higher
